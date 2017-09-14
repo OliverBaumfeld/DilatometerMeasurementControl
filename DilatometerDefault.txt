@@ -1,0 +1,1 @@
+Field(Oe), Capacitance(pF), Loss(nS),  PPMS T(K), R Cernox(Ohm)

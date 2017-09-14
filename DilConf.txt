@@ -1,0 +1,9 @@
+# Kommentar
+#
+#
+#
+C0=5.12    # parallel plate capacitance
+b=9.8    # pivot point
+ro=6.25   # outer radius
+ri=2.33 
+#
